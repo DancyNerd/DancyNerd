@@ -1,4 +1,4 @@
 # Greetings and Welcome!  
 > I mostly use Python and React.js.  
->> Tell me about your favorite project.  
+>> Always looking for interesting projects.
 >>> :alien:
