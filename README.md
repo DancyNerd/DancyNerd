@@ -1,4 +1,4 @@
 # Greetings and Welcome!  
-> I mostly use Python and React.js.  
+> WoW nerd turned Star Trek flavored.
 >> Always looking for interesting projects.
 >>> :alien:
