@@ -1,4 +1,4 @@
 # Greetings and Welcome!  
-> WoW nerd turned Star Trek flavored.
+> WoW x Star Trek nerd
 >> Always looking for interesting projects.
 >>> :alien:
